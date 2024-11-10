@@ -1,0 +1,5 @@
+names:
+  0: pupil
+path: /home/ericles/Documents/Aprendizado/Unicamp/Machine-learning/Pupil-seg
+train: data/images/train
+val: data/images/val
