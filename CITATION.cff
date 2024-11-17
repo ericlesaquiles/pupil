@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Aquiles Lima
+    given-names: Éricles; Vitor
+  - family-names: Takahashi Miranda
+    given-names: Vitor
+title: "Software for doing some eye segmentation tests"
+version: 1.0
+date-released: 2024-11-17
+url: "https://github.com/ericlesaquiles/pupil"
